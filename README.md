@@ -12,4 +12,4 @@ linkedin profile:https://www.linkedin.com/in/demirhan-demir-8a2716219/
 StackOverflow profile:
 https://stackoverflow.com/users/17278331/demirhandemir
 ***
-E-mail:demirhanndemirr1@gmail.com
+E-mail: demirhanndemirr1@gmail.com
