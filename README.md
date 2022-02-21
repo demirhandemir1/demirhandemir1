@@ -6,7 +6,7 @@ I am working as a Full-Stack Developer.
 * I'm learning java
 ## places i work
 * I worked as an intern at neo software and YMK software
-* I worked as a computer programmer at KY Computer Software.
+* I worked as a intern at KY Computer Software.
 * I worked as a Full-Stack Developer at venüs software.
 
 linkedin profile: https://www.linkedin.com/in/demirhan-demir-8a2716219/
